@@ -4,8 +4,8 @@
 
 # 参考资料
 
-[haproxy镜像](https://hub.docker.com/_/haproxy/)
-[haproxy代理mongodb](http://www.bubuko.com/infodetail-1701537.html)
+* [haproxy镜像](https://hub.docker.com/_/haproxy/)
+* [haproxy代理mongodb](http://www.bubuko.com/infodetail-1701537.html)
 
 # 集群下的mongodb 只有primary可以执行写操作，这里只考虑写操作
 
